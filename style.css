@@ -16,7 +16,7 @@ body{
 .main{
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)),url(/Assests/pexels-pixabay-235925.jpg);
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)),url(pexels-pixabay-235925.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
